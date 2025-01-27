@@ -18,7 +18,6 @@ class LinkedList {
     this.tail.next = newNode;
     this.tail = newNode;
     this.length++;
-    return this
   }
 
   prepend(value){
@@ -59,7 +58,7 @@ class LinkedList {
     else{
       leader.next = null
     }
-    console.log(this.head)
+    this.length --;
   }
 
   findPreNode(index){
