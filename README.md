@@ -39,7 +39,7 @@ Na pasta 1 se encontram várias pastas e cada uma delas se refere a um tópico a
 │       └── Binary Search Tree
 │           └── implementation.js
 ```
-Em cada uma dessas pastas (Array, Graphs, HashTable, Linked Lists, Queue, Stacks, Trees) há uma implemetação da estrutura de dados (implementation.js), além de alguns desadios e aprendizados do curso
+Em cada uma dessas pastas (Array, Graphs, HashTable, Linked Lists, Queue, Stacks, Trees) há uma implemetação da estrutura de dados (implementation.js), além de alguns desafios e aprendizados do curso
 
 Na pasta 2 se encontram várias pastas e cada uma delas se refere a uma solução de um exercício do leetcode com seu respectivo número:
 ```shell
