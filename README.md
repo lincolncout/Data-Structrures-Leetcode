@@ -1,13 +1,14 @@
 Data Structrures + Leetcode
 
-Esse repositório tem duas funções principais:
-
-1. Manter meus estudos de algoritmos e estrutura de dados atualizados
-2. Manter salvos minhas soluções de exercícios práticos de leetcode sobre os tópicos estudados acima
-
-Para isso, existem duas pastas padrões na pasta raiz do projeto
+Esse repositório tem duas pastas padrões na pasta raiz do projeto
 
 1. Data Sctructures
 2. Leeetcode
+
+A pasta de número 1 (data structures) se refere ao meu estudo sobre algoritmos e estrturas de dados do curso da udemy que pode ser encontrado ao clicar [aqui]([https://api.nasa.gov/](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)).
+
+A pasta número 2 se refere a soluções práticas no [leetcode](https://leetcode.com/) realizadas para aplicação do que foi aprendido no curso mencionado acima.
+
+
 
    
