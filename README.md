@@ -1,4 +1,4 @@
-Data Structrures + Leetcode
+## Data Structrures + Leetcode
 
 Esse repositório tem duas pastas padrões na pasta raiz do projeto
 
