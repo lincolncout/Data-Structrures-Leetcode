@@ -17,7 +17,7 @@ Na pasta 1 se encontram várias pastas e cada uma delas se refere a um tópico a
 │   ├── Array
 │   │   ├── classes.js
 │   │   ├── elementosIguaisArrays.js
-│   │   ├── implementingArray.js
+│   │   ├── implementation.js
 │   │   ├── mergeSortArrays.js
 │   │   └── reverseString.js
 │   ├── Graphs
@@ -25,17 +25,19 @@ Na pasta 1 se encontram várias pastas e cada uma delas se refere a um tópico a
 │   ├── HashTable
 │   │   ├── elementoRepetido.js
 │   │   ├── hash.js
-│   │   └── implementingHashTable.js
+│   │   └── implementation.js
 │   ├── Linked Lists
-│   │   ├── implementingDoublyLinkedList.js
-│   │   └── implementingLinkedList.js
+│   │   ├── Double Linked Lists
+│   │   │   └── implementation.js
+│   │   └── Single Linked Lists
+│   │       └── implementation.js
 │   ├── Queue
-│   │   └── queueImplementation.js
+│   │   └── implementation.js
 │   ├── Stacks
-│   │   └── stackImplementation.js
+│   │   └── implementation.js
 │   └── Trees
 │       └── Binary Search Tree
-│           └── binarySearchTree.js
+│           └── implementation.js
 ```
 Em cada uma dessas pastas (Array, Graphs, HashTable, Linked Lists, Queue, Stacks, Trees) há uma implemetação da estrutura de dados (implementation.js), além de alguns desadios e aprendizados do curso
 
